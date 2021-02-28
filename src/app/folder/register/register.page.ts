@@ -7,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RegisterPage implements OnInit {
 
-  constructor() { }
+  register:any;
+
+  constructor() { 
+    
+  }
 
   ngOnInit() {
   }
